@@ -1,19 +1,13 @@
-# SHAKESHAKE
+Worry every day, don’t know what fitness program should I choose?
 
-When dining with friends often, it's best to feel uncomfortable with who pays.
+The app helps you decide your fitness plan tonight.
 
-This application can easily solve this problem.
+Add candidate information, including pictures, names, fitness notes, etc...
 
-It only needs 3 steps.
+Shake it to display tonight's fitness program, and enter the calories consumed today.
 
-1. Open the app
-
-2. Add the name of the candidate (if there are 5 people, fill in the names of 5 people)
-
-3. Shake it on the homepage, and the page displays the name of the person who paid the bill.
-
-This is a very easy to use app, I hope you like it.
+This is a very useful app, Hope you like it.
 
 if you have any question,contact me.
 
-Email: xukong7844057684@163.com
+Email: xiajiazhan13275nl@163.com
